@@ -8,7 +8,7 @@ sudo dockerd
 ```
 #### Build Docker image
 ```bash
-docker build -t rest-apis-flask-python .
+docker build -t store-app .
 ```
 
 #### Start a docker for local development
